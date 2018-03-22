@@ -1,0 +1,13 @@
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\Homework03\bin\Release\Homework03.exe.config
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\Homework03\bin\Release\Homework03.exe
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\Homework03\bin\Release\Homework03.pdb
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\Homework03\obj\Release\MainWindow.g.cs
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\Homework03\obj\Release\App.g.cs
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\Homework03\obj\Release\Homework03_MarkupCompile.cache
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\Homework03\obj\Release\Homework03_MarkupCompile.lref
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\Homework03\obj\Release\MainWindow.baml
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\Homework03\obj\Release\Homework03.g.resources
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\Homework03\obj\Release\Homework03.Properties.Resources.resources
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\Homework03\obj\Release\Homework03.csproj.GenerateResource.Cache
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\Homework03\obj\Release\Homework03.exe
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\Homework03\obj\Release\Homework03.pdb
