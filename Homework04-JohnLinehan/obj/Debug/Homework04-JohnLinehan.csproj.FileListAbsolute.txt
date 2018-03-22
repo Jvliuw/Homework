@@ -1,0 +1,14 @@
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\Homework04-JohnLinehan\bin\Debug\Homework04-JohnLinehan.exe.config
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\Homework04-JohnLinehan\obj\Debug\Homework04-JohnLinehan.csprojResolveAssemblyReference.cache
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\Homework04-JohnLinehan\obj\Debug\MainWindow.g.cs
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\Homework04-JohnLinehan\obj\Debug\App.g.cs
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\Homework04-JohnLinehan\obj\Debug\Homework04-JohnLinehan_MarkupCompile.cache
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\Homework04-JohnLinehan\obj\Debug\Homework04-JohnLinehan_MarkupCompile.lref
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\Homework04-JohnLinehan\bin\Debug\Homework04-JohnLinehan.exe
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\Homework04-JohnLinehan\bin\Debug\Homework04-JohnLinehan.pdb
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\Homework04-JohnLinehan\obj\Debug\MainWindow.baml
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\Homework04-JohnLinehan\obj\Debug\Homework04-JohnLinehan.g.resources
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\Homework04-JohnLinehan\obj\Debug\Homework04_JohnLinehan.Properties.Resources.resources
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\Homework04-JohnLinehan\obj\Debug\Homework04-JohnLinehan.csproj.GenerateResource.Cache
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\Homework04-JohnLinehan\obj\Debug\Homework04-JohnLinehan.exe
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\Homework04-JohnLinehan\obj\Debug\Homework04-JohnLinehan.pdb
