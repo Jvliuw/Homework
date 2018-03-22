@@ -1,0 +1,14 @@
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\TicTacToeJohnLinehan\bin\Debug\TicTacToeJohnLinehan.exe.config
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\TicTacToeJohnLinehan\bin\Debug\TicTacToeJohnLinehan.exe
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\TicTacToeJohnLinehan\bin\Debug\TicTacToeJohnLinehan.pdb
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\TicTacToeJohnLinehan\obj\Debug\TicTacToeJohnLinehan.csprojResolveAssemblyReference.cache
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\TicTacToeJohnLinehan\obj\Debug\MainWindow.g.cs
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\TicTacToeJohnLinehan\obj\Debug\App.g.cs
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\TicTacToeJohnLinehan\obj\Debug\TicTacToeJohnLinehan_MarkupCompile.cache
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\TicTacToeJohnLinehan\obj\Debug\TicTacToeJohnLinehan_MarkupCompile.lref
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\TicTacToeJohnLinehan\obj\Debug\MainWindow.baml
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\TicTacToeJohnLinehan\obj\Debug\TicTacToeJohnLinehan.g.resources
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\TicTacToeJohnLinehan\obj\Debug\TicTacToeJohnLinehan.Properties.Resources.resources
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\TicTacToeJohnLinehan\obj\Debug\TicTacToeJohnLinehan.csproj.GenerateResource.Cache
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\TicTacToeJohnLinehan\obj\Debug\TicTacToeJohnLinehan.exe
+C:\Users\linehaj\Documents\C Sharp Tips And Training\UW Course\Semester 2\Cstructor Exercises\TicTacToeJohnLinehan\obj\Debug\TicTacToeJohnLinehan.pdb
